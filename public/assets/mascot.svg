@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title desc">
+  <title id="title">랭크잇 미어캣 마스코트</title>
+  <desc id="desc">왕관을 쓴 친근한 미어캣 캐릭터</desc>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6c47d"/>
+      <stop offset="1" stop-color="#d99548"/>
+    </linearGradient>
+    <linearGradient id="crown" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb02e"/>
+      <stop offset="1" stop-color="#f07800"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="180" cy="390" rx="115" ry="18" fill="#0a2a4a" opacity=".09"/>
+  <path d="M155 45 128 12l-12 48 39-15Zm50 0 27-33 12 48-39-15Zm-25-6L180 2l-22 43Z" fill="url(#crown)" stroke="#e66f00" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="180" cy="139" r="91" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9"/>
+  <circle cx="95" cy="136" r="29" fill="#be7738" stroke="#4a2c1b" stroke-width="8"/>
+  <circle cx="265" cy="136" r="29" fill="#be7738" stroke="#4a2c1b" stroke-width="8"/>
+  <ellipse cx="180" cy="160" rx="66" ry="58" fill="#fff0d9"/>
+  <path d="M118 121c17-28 45-33 61-12-17 10-40 14-61 12Zm124 0c-17-28-45-33-61-12 17 10 40 14 61 12Z" fill="#513321"/>
+  <ellipse cx="144" cy="126" rx="19" ry="24" fill="#092d50"/>
+  <ellipse cx="216" cy="126" rx="19" ry="24" fill="#092d50"/>
+  <circle cx="150" cy="118" r="6" fill="white"/>
+  <circle cx="222" cy="118" r="6" fill="white"/>
+  <ellipse cx="180" cy="158" rx="18" ry="13" fill="#392318"/>
+  <path d="M153 181c19 20 38 20 56 0" fill="none" stroke="#392318" stroke-width="7" stroke-linecap="round"/>
+  <path d="M119 225c15-29 39-43 61-43s46 14 61 43l31 126c4 17-8 31-25 31H113c-17 0-29-14-25-31l31-126Z" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9"/>
+  <path d="M148 213c21-13 43-13 64 0l16 138H132l16-138Z" fill="#fff0d9"/>
+  <rect x="88" y="250" width="106" height="80" rx="14" transform="rotate(-8 88 250)" fill="#0b3157" stroke="#061f38" stroke-width="8"/>
+  <circle cx="174" cy="257" r="5" fill="#c7def4"/>
+  <path d="M232 235c-25 5-34 25-35 54" fill="none" stroke="#4a2c1b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M105 238c-12 18-16 36-14 55" fill="none" stroke="#4a2c1b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M111 372c-18 3-33 13-41 27h76" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M249 372c18 3 33 13 41 27h-76" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9" stroke-linejoin="round"/>
+</svg>
