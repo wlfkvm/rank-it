@@ -1,0 +1,13 @@
+{
+  "name": "rank-it",
+  "version": "0.1.0",
+  "private": true,
+  "description": "랭크잇 - 세상의 모든 순위를 한눈에",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
