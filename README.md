@@ -19,6 +19,13 @@
 - Deploy: `npx wrangler deploy`
 - Domain: `https://rank.it.kr`
 
+## 링크 공유 미리보기
+- 홈페이지와 7개 하위 페이지에 정적 Open Graph / X(Twitter) 카드 정보를 제공합니다.
+- 실제 순위 공개 전에는 제목·설명에 준비 상태를 명시합니다.
+- 공통 이미지: `public/assets/rankit-share-v1.png` (1200×630), 편집 원본: `design/rankit-share.svg`.
+- 검증: `npm run check:social` (Node.js 18 이상, 추가 패키지 불필요).
+- 적용 방법·페이지별 문구·검증 결과: [공유 메타태그 안내](docs/social-sharing.md).
+
 ## 다음 개발 우선순위
 1. 여행지 후보 데이터와 TOP 500 산정 로직
 2. 상세 페이지 URL/데이터 구조
