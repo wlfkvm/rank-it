@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-28",
+  "title": "오늘의 영어 단어 5개",
+  "words": [
+    {
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "My English is improving.",
+      "exampleKo": "내 영어 실력이 향상되고 있다."
+    },
+    {
+      "word": "afford",
+      "meaning": "~할 여유가 있다",
+      "example": "I can't afford it right now.",
+      "exampleKo": "나는 지금 그것을 살 여유가 없다."
+    },
+    {
+      "word": "reluctant",
+      "meaning": "내키지 않는, 꺼리는",
+      "example": "He was reluctant to go.",
+      "exampleKo": "그는 가기를 꺼렸다."
+    },
+    {
+      "word": "consequence",
+      "meaning": "결과, 영향",
+      "example": "Actions have consequences.",
+      "exampleKo": "행동에는 결과가 따른다."
+    },
+    {
+      "word": "require",
+      "meaning": "필요로 하다, 요구하다",
+      "example": "This job requires experience.",
+      "exampleKo": "이 일은 경험을 필요로 한다."
+    }
+  ]
+}
