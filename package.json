@@ -4,6 +4,7 @@
   "private": true,
   "description": "랭크잇 - 세상의 모든 순위를 한눈에",
   "scripts": {
+    "check:social": "node scripts/check-social-meta.mjs",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy"
   },

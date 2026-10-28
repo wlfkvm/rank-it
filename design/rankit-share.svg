@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="share-title share-desc">
+  <title id="share-title">랭크잇 공통 공유 이미지</title>
+  <desc id="share-desc">남색과 주황색의 랭크잇 로고, 왕관을 쓴 미어캣 마스코트와 랭킹 공개 준비 중 안내</desc>
+  <rect width="1200" height="630" fill="#f5f7fa"/>
+  <rect width="1200" height="12" fill="#082f54"/>
+  <circle cx="1005" cy="300" r="232" fill="#fff0df"/>
+  <circle cx="1005" cy="300" r="192" fill="#fff8f0"/>
+  <g transform="translate(70 75) scale(.92)"><rect width="64" height="64" rx="18" fill="#082f54"/><path d="M18 19h18c8 0 13 4 13 11 0 5-3 8-7 10l9 11H39l-7-9h-3v9H18V19Zm11 9v7h7c2 0 4-1 4-4s-2-3-4-3h-7Z" fill="#fff"/><circle cx="49" cy="17" r="7" fill="#ed6c00"/></g>
+  <g font-family="Nanum Gothic, sans-serif" fill="#082f54">
+    <text x="147" y="129" font-size="61" font-weight="700">랭크</text>
+    <text x="261" y="129" font-size="61" font-weight="700" fill="#ed6c00">잇</text>
+    <rect x="70" y="178" width="64" height="5" rx="2.5" fill="#ed6c00"/>
+    <text x="70" y="264" font-size="50" font-weight="700">좋은 선택을 위한</text>
+    <text x="70" y="332" font-size="50" font-weight="700">랭킹을 준비합니다.</text>
+    <text x="72" y="401" font-size="25" fill="#657488">여행지 · 맛집 · 카페 · 게임 · 도서 · 음악</text>
+    <rect x="70" y="447" width="306" height="46" rx="23" fill="#e6edf3"/>
+    <text x="92" y="478" font-size="21" font-weight="700">데이터 검증 후 순위 공개</text>
+    <text x="72" y="567" font-size="25" font-weight="700">rank.it.kr</text>
+  </g>
+  <!-- Existing Rankit mascot, embedded to keep the source self-contained. -->
+  <g transform="translate(808 107) scale(.92)">
+  <title id="title">랭크잇 미어캣 마스코트</title>
+  <desc id="desc">왕관을 쓴 친근한 미어캣 캐릭터</desc>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6c47d"/>
+      <stop offset="1" stop-color="#d99548"/>
+    </linearGradient>
+    <linearGradient id="crown" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb02e"/>
+      <stop offset="1" stop-color="#f07800"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="180" cy="390" rx="115" ry="18" fill="#0a2a4a" opacity=".09"/>
+  <path d="M155 45 128 12l-12 48 39-15Zm50 0 27-33 12 48-39-15Zm-25-6L180 2l-22 43Z" fill="url(#crown)" stroke="#e66f00" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="180" cy="139" r="91" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9"/>
+  <circle cx="95" cy="136" r="29" fill="#be7738" stroke="#4a2c1b" stroke-width="8"/>
+  <circle cx="265" cy="136" r="29" fill="#be7738" stroke="#4a2c1b" stroke-width="8"/>
+  <ellipse cx="180" cy="160" rx="66" ry="58" fill="#fff0d9"/>
+  <path d="M118 121c17-28 45-33 61-12-17 10-40 14-61 12Zm124 0c-17-28-45-33-61-12 17 10 40 14 61 12Z" fill="#513321"/>
+  <ellipse cx="144" cy="126" rx="19" ry="24" fill="#092d50"/>
+  <ellipse cx="216" cy="126" rx="19" ry="24" fill="#092d50"/>
+  <circle cx="150" cy="118" r="6" fill="white"/>
+  <circle cx="222" cy="118" r="6" fill="white"/>
+  <ellipse cx="180" cy="158" rx="18" ry="13" fill="#392318"/>
+  <path d="M153 181c19 20 38 20 56 0" fill="none" stroke="#392318" stroke-width="7" stroke-linecap="round"/>
+  <path d="M119 225c15-29 39-43 61-43s46 14 61 43l31 126c4 17-8 31-25 31H113c-17 0-29-14-25-31l31-126Z" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9"/>
+  <path d="M148 213c21-13 43-13 64 0l16 138H132l16-138Z" fill="#fff0d9"/>
+  <rect x="88" y="250" width="106" height="80" rx="14" transform="rotate(-8 88 250)" fill="#0b3157" stroke="#061f38" stroke-width="8"/>
+  <circle cx="174" cy="257" r="5" fill="#c7def4"/>
+  <path d="M232 235c-25 5-34 25-35 54" fill="none" stroke="#4a2c1b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M105 238c-12 18-16 36-14 55" fill="none" stroke="#4a2c1b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M111 372c-18 3-33 13-41 27h76" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M249 372c18 3 33 13 41 27h-76" fill="url(#fur)" stroke="#4a2c1b" stroke-width="9" stroke-linejoin="round"/>
+</g>
+  <rect x="844" y="527" width="256" height="42" rx="21" fill="#082f54"/>
+  <text x="917" y="555" font-family="Nanum Gothic, sans-serif" font-size="21" font-weight="700" fill="#ffffff">RANK.IT</text>
+</svg>
